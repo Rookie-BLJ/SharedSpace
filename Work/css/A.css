@@ -1,0 +1,51 @@
+#div1{
+	width: 100%;
+	margin: 0px;
+}
+#div1>img{
+	width: 100%;
+}
+
+#div2{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+#div2>img{
+	width: 20%;
+	
+}
+#div3{
+
+	width: 100%;
+}
+#div3>#div3_head>img{
+	width:100% ;
+}
+#div3>#div3_body{
+	display: flex;
+	justify-content:space-around;
+	
+}
+#div3>#div3_body>img{
+	width: 33%;
+}
+
+#div4{
+	width: 100%;
+}
+#div4>img{
+	width: 100%;
+}
+#div5{
+	width: 100%;
+}
+#div5>img{
+	width: 100%;
+}
+#div6{
+	width: 100%;
+}
+#div6>img{
+	width: 100%;
+}
